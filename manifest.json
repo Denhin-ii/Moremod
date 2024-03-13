@@ -1,6 +1,6 @@
 {
     "name": "Moremod",
-    "version_number": "1.2.1",
+    "version_number": "1.3.1",
     "website_url": "https://github.com/Denhin-ii/Moremod",
     "description": "Have a good game!",
     "dependencies": [
@@ -58,6 +58,7 @@
         "FlipMods-ReservedSprayPaintSlot-1.1.0",
         "taffyko-BetterSprayPaint-2.0.2",
         "FlipMods-ReservedUtilitySlot-1.0.0",
-        "Sligili-HDLethalCompany-1.5.6"
+        "Sligili-HDLethalCompany-1.5.6",
+        "boxofbiscuits97-QuotaRollover-2.3.0"
     ]
 }
