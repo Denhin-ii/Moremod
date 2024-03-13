@@ -1,8 +1,8 @@
 {
     "name": "Moremod",
-    "version_number": "1.0.0",
-    "website_url": "https://github.com/thunderstore-io",
-    "description": "This is a description for a mod. 250 characters max",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/Denhin-ii/Moremod",
+    "description": "A build made for me and my friends.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
 	"HomelessGinger-MaskedEnemyOverhaul-3.1.2"
